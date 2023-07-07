@@ -8,9 +8,9 @@ export default function AccessDenied() {
       <html className="h-full w-full">
         <main className="grid min-h-full place-items-center bg-white px-6 py-24 sm:py-32 lg:px-8">
           <div className="text-center">
-            <p className="text-base font-semibold text-indigo-600">403</p>
+            <p className="text-base font-semibold text-indigo-600">403(Writing sample text to check the PR issue)</p>
             <h1 className="mt-4 text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-              Access Denied
+              Access Denied(Writing sample text to check the PR issue)
             </h1>
             <p className="mt-6 text-base leading-7 text-gray-600">
               Sorry, Please Login and try again.
